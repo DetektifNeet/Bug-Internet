@@ -1,0 +1,95 @@
+GET wss://skul.id/ HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: skul.id[crlf]X-Forwarded-For: skul.co.id[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]
+
+GET wss://Corona*jakarta*go*id HTTP/1.1[crlf]Host: [ssh][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf][crlf]
+
+covid19,go,id ssl
+corona,jakarta,go,id ssl
+skul,id 80 ws
+loop,co,id 80 ws
+blog,linggo,com ws/wstls
+tsel,me/PatchMentor direct 80
+react-morton,integralads,com wstls
+
+#Bug Tsel GamesMAX
+
+🔄 Mode Bolak Balik Vmess/Vless Port 80🔄 
+↯
+IP: 
+• 104.16.108.96
+• 104.17.202.159
+• 104.17.203.159
+• 104.17.204.159
+• 104.17.205.159
+• 104.17.206.159
+• 104.18.41.141
+• 104.18.12.120
+• 104.18.13.120
+• 104.18.2.179
+• 104.18.3.179
+• 104.18.28.70 
+• 104.18.29.70
+• 104.18.20.219
+• 104.18.21.219
+• 104.18.22.187
+• 104.18.23.187
+• 104.18.30.102
+• 104.18.31.102
+• 172.64.146.115
+
+Host: 
+• cf-vod.nimo.tv
+• article.nimo.tv
+• rn-static.nimo.tv
+• cftxvidtest.vod.nimo.tv
+• override.cf-test.hls.nimo.tv
+• override.cf.hls.nimo.tv
+• esports.duniagames.co.id
+• stage5.duniagames.co.id
+• api.duniagames.co.id
+• link.duniagames.co.id
+• ir.huya.com
+• huya.investorroom.com
+
+
+#Bug Tsel IlmuPedia (Ilped) & Kuota Belajar (KB)
+
+🔄Mode Bolak Balik🔄 
+↯
+Port Non TLS Vmess/Vless/Igniter-Go
+
+• 104.16.85.20
+• 104.17.2.81
+• 104.17.3.81
+• 104.17.29.92
+• 104.17.27.92
+• 104.17.28.92
+• 104.17.30.92
+• 104.17.31.92
+• 104.18.2.2
+• 104.18.3.2
+• 104.18.24.139
+• 104.18.25.139  
+• 104.21.64.112
+• 104.22.24.131
+• 104.22.25.131
+• 104.26.15.59
+• 104.26.14.59
+• 172.67.70.14
+• 172.67.183.130
+• 199.60.103.28
+• 199.60.103.228
+
+Host:
+• tawk.to
+• embed.tawk.to
+• test.tawk.to
+• ruangguru.com
+• to.ruangguru.com
+• io.ruangguru.com
+• bimbel.ruangguru.com
+• www.skillacademy.com
+• www.udemy.com
+• api.midtrans.com
+• ganecadigital.com
+• app.ganecadigital.com
+• mercubuana.ac.id
