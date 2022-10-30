@@ -1,0 +1,18 @@
+
+List Bug Axis Game
+
+[SSH Ws/Trojan Go/Vmess/Vless Ws]
+[Support Port 80/443]
+=================
+poe.garena.com
+104.19.185.16
+104.19.186.16
+-----------------
+zendesk1.garena.com
+162.159.128.7
+162.159.138.6
+-----------------
+cdn.appsflyer.com
+104.18.20.94
+104.18.21.94
+-----------------
