@@ -1,0 +1,215 @@
+
+# Bug All Sc Cloudfront
+
+TSEL ILMUPEDIA CLOUDFRONT
+>> www.zenius.com
+>> cdn.kelaspintar.id
+>> www.sekolah.mu
+>>  prakerja.sekolah.mu
+>>  cdn.sekolah.mu
+>>  img.sekolah.mu
+>>  gost1.zoom.us
+
+#TSEL KB & XL AKRAB
+>>  explore.zoom.us
+>> ca01ssrweb.zoom.us
+>> ca01ssrweb.zoom.us
+>> st1.zoom.us.
+>> marketplacefront.zoom.us
+>>  assets.zoom.us
+>>  source.zoom.us
+>> academylearn.zoom.us
+
+
+
+#TSEL GAMEMAX
+>>  sail-rank-static.nimo.tv
+>>  hys3.nimo.tv
+>>  epa.iflix.com
+>>  vod.iflix.com
+>>  developer.iflix.com
+>>  cinema-dev.iflix.com
+>>  air.bluehole.net
+>>  api-cf.nimo.tv
+
+#TSEL OPOK
+>> ngage.telkomsel.com
+>> quill.fb.com
+>> covid19.who.int  (Cfront)
+
+
+>>  WHATSAPP
+>> 
+>> 
+
+#ISAT EDU
+>> cdn.bahaso.com
+>> cdn.zenius.net
+>> live-class.zenius.net
+>> linggo.com
+>> www.quipper.com
+>> create.quipper.com
+>> link.quipper.com
+>> gost1.zoom.us
+>> www.sekolah.mu
+>> cdn.kelaspintar.id
+>> prakerja.sekolah.mu
+>> img.sekolah.mu
+>> 108.138.141.70
+>> i.ytimg.com.family
+>> grab.com
+>> 108.138.141.97
+>> quill.fb.com
+>> opensource.fb.com
+>> viewpoints.fb.com
+>> v15m.tiktokcdn.com
+
+#ISAT SHOPPING
+>> sellercenter-static.zalora.co.id
+
+#XL FLEX
+>> cdntest30.line-scdn.net
+>> cdntest31.line-scdn.net
+>> cdntest32.line-scdn.net
+>> ch-news-cf.line-apps.com -unliwhatsapp
+>> lpgen.line-scdn.net   - UnliWa
+>> cdn.zenius.net  - metting&media belajar
+>> ch-news-cf.line-apps.com
+>> Idblog-parts-cdn.line-apps.com
+>> antibot-jsa.tokopedia.com
+
+>> 108.138.141.70  - metting& media belajar
+>> careers.linecorp.com
+>> engineering.linecorp.com
+>> email.gojek.com
+>> gocorp-integration.gojek.com
+>> track-integration.gojek.com
+>> gocorp.gojek.com
+>> email.admin.gocorp.gojek.com
+>> subscription-media.grab.com
+>> media.grab.com
+>> omega.grab.com
+>> grab360.grab.com
+>> rides-api-s3.grab.com
+>> saarthi-s3.grab.com
+>> 
+>>
+
+#AXIS
+>> i.ytimg.com.family  - Opok
+>> api.adblock-for-youtube.com - Opok
+>>  adsinsightslab.tiktok.com  - Opok
+
+#AXIS & XL IFLIX Cloudfront
+> >  epa.iflix.com
+>>  vod.iflix.com
+>>  developer.iflix.com
+>>   cinema-dev.iflix.com
+
+NB : Tidak semua bug work 100% pada akun cloudfront & TKP tertentu.
+
+BUG ILMUPEDIA ❤
+
+104.22.25.131    ini konek BEDA IP (1)
+104.22.24.131    ini konek 
+104.18.25.139   ini konek  BEDA IP (2)
+104.18.24.139   ini konek 
+104.18.2.2           ini konek  BEDA IP (3)
+104.18.3.2           ini konek
+104.16.85.20      ini konek. BEDA IP (4)
+104.20.74.141   ini konek  BEDA IP (5)
+104.17.3.81        Ini konek  BEDA IP (6)
+104.16.66.85     Ini konek BEDA IP (7)
+104.21.64.112   ini konek BEDA IP (8)
+
+BUG AKRAB ❤
+
+104.18.10.39       ini of konek  BEDA IP (1)
+104.21.21.147     ini konek  BEDA IP (2)
+172.67.199.34     ini konek  BEDA IP (3)
+104.18.38.174     ini konek  BEDA IP (4)
+104.18.20.226     ini konek  BEDA IP (5)
+104.18.24.243     ini konek  BEDA IP (6)
+104.18.32             ini konek  BEDA IP (7)
+104.18.31.185     ini konek  BEDA IP (8)
+141.193.213.20  ini konek  BEDA IP (9)
+141.193.213.21  ini konek  BEDA IP (10) 
+104.18.21.226    ini konek  BEDA IP (11)
+104.18.26.28.      ini konek  BEDA IP (12)
+
+Bug Gamemax ♥
+
+1. tsel-game.bugs.systems
+    104.19.143.108
+2. riseofnowlin.mobi
+    104.21.65.170
+3. cdn.riseofnowlin.mobi
+    172.67.164.239
+4. www.mobile-legends.net
+    104.21.91.25
+5. mobile-legends.net
+     172.67.208.218
+6. msupport.pubg.com
+    162.159.138.6
+7. poe.garena.com
+    104.19.185.16
+8. ir.huya.com
+    104.17.202.159
+9. dashboard-dev.nimo.tv
+    104.18.23.187
+10. cf-vod.nimo.tv
+       104.18.21.219
+11. cftxvidtest.vod.nimo.tv
+       104.18.13.120
+12. cftxvid.vod.nimo.tv
+       104.18.12.120
+13. overrid.cf-hls.nimo.tv
+       104.18.29.170
+14. ovveride.cf-test.hls.nimo.tv
+
+
+Xl/Axis/indosat ini buat akrab juga bisa bebas 
+
+GET wss://cdn.appsflyer.com/ HTTP/1.1[crlf]Host: ISI HOST SSH[Host][crlf]Upgrade: websocket[crlf][crlf] 
+
+Proxy : 104.18.21.94:443
+
+Sni : cdn.appsflyer.com
+(metode ssh ws)
+=========================
+
+=========================
+Xl/Axis/indosat
+
+GET wss://www.ruangguru.com [protocol][crlf]Host: ISI HOST SSH[host_port][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+
+Proxy : 104.21.1.180:443
+
+SNI : www.ruangguru.com
+=========================
+
+=========================
+Xl/Axis/indosat
+
+GET wss://ruangguru.com/ HTTP/1.1[crlf]Host: ISI HOST SSH[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+
+Proxy : ruangguru.com:443
+
+SNI : ruangguru.com
+
+
+Xl/Axis/indosat
+
+GET wss://meet.ruangguru.com/ HTTP/1.1[crlf]Host: ISI HOST SSH[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+
+Proxy : meet.ruangguru.com:443
+
+SNI : meet.ruangguru.com
+
+Vless yes
+Vmes yes
+Trojan yes
+Ssh+ws yes 
+
+" Metode semua tergantung di wilayah mu " 
+        "try it, don't ask too much maybe"
