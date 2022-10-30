@@ -1,0 +1,261 @@
+HEAD wss://api.midtrans.com/ HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: api.midtrans.com[crlf]X-Forwarded-For: api.midtrans.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]
+
+Proxy: 104.17.3.81:443
+
+SNI: api.midtrans.com
+
+
+
+#Bug XL Akrab & Combo Plus VIP (Bukan Combo Plus Biasa)
+
+⬇Mode HTTP WS/HTTPS WSS/SNI Port 443 atau 80 (TKP Tertentu)⬇
+↯
+• safebrowsing.google.com
+• kh.google.com
+• authsvc.teams.microsoft.com
+• talkgadget.google.com
+• trouter2-azsc-krce-3-b.trouter.teams.microsoft.com
+• chief-cdn.storage.googleapis.com
+• meet.google.com
+• ftp.line.com
+• config.teams.microsoft.com
+• cdntest40.line-scdn.net
+• web.web.whatsapp.com
+• ww.web.whatsapp.com
+• w1.web.whatsapp.com
+• w2.web.whatsapp.com
+• w3.web.whatsapp.com
+• w4.web.whatsapp.com
+• w5.web.whatsapp.com
+• w8.web.whatsapp.com
+• we1.web.whatsapp.com
+• we2.web.whatsapp.com
+
+Note: Cari IP yang cocok agar konek
+
+🔄Mode Bolak Balik🔄
+↯
+IP:
+
+• 104.16.42.102
+• 104.16.43.102
+• 104.17.2.81
+• 104.17.3.81
+• 104.17.71.206
+• 104.17.70.206
+• 104.18.2.2
+• 104.18.3.2
+• 104.18.21.226
+• 104.18.30.9
+• 104.18.211.56
+• 104.18.31.9
+• 104.18.11.39 
+• 104.18.10.39
+• 104.18.26.28
+• 104.18.27.28
+• 104.18.24.139
+• 104.18.38.174
+• 104.20.74.141
+• 104.20.75.141
+• 104.21.32.17
+• 104.21.21.104
+• 104.21.10.162
+• 104.21.4.109
+• 104.21.16.163
+• 104.21.6.56
+• 104.21.12.167
+• 104.21.21.147
+• 104.21.21.107
+• 104.21.16.163
+• 104.21.1.180
+• 104.21.1.229
+• 104.21.6.56
+• 104.21.12.167
+• 104.21.64.112
+• 104.21.90.167
+• 104.21.10.162
+• 104.21.4.109
+• 104.22.63.243
+• 104.22.62.243
+• 104.26.5.10
+• 104.26.4.10
+• 104.26.4.126
+• 104.26.14.59
+• 104.26.15.59
+• 141.193.213.20
+• 141.193.213.21
+• 170.114.46.0
+• 172.67.27.61
+• 172.67.182.69
+• 172.67.183.130
+• 172.67.70.14
+• 172.67.73.39
+• 172.67.199.34
+
+Host:
+Bug Alternative (Pointing/All in One)
+↯
+• sg.mjee.me
+• xl.gandring.my.id
+↯
+• alerts.bounces.google.com
+• zt3a8nw0r75w.wpeproxy.com
+• verify.medallia.com
+• zoomappdocs.zoom.us
+• www.ukmindonesia.id
+• ruangguru.com
+• to.ruangguru.com
+• io.ruangguru.com
+• apps.qiscus.com
+• lms.uin-antasari.ac.id
+• www.appsflyer.com
+• www.udemy.com
+• www.ruangguru.com
+• info.microsoft.com
+• ionline.uc.edu
+• ie6iq3ufftcz.wpeproxy.com
+• ir.deliveryhero.com
+• developers.deliveryhero.com
+• cacerts.digicert.com
+• cdn.digicertcdn.com
+• config.teams.microsoft.com
+• developer.medallia.com
+• ocem.medallia.com
+• access.zoominfo.com
+• blogs.microsoft.com
+• chief-cdn.storage.googleapis.com
+• www.midtrans.com
+• api.midtrans.com
+• d2gaasaagm8n.wpeproxy.com
+• sia2.mercubuana.ac.id
+• api.fastworldpay.com
+• ltcminer.com
+• mercubuana.ac.id
+• api.midtrans.com
+• ganecadigital.com
+• app.ganecadigital.com
+• source.zoom.us
+
+mode ws
+🎲 Mode: UDP (SSTP, L2TP, WIREGUARD) 🎲
+•  mapsplatform.google.com
+•  kh.google.com
+• config.teams.microsoft.com
+• mobilemaps.googleapis.com
+• authsvc.teams.microsoft.com
+• talkgadget.google.com
+
+
+#Bug XL Flex & Unlimited Turbo
+
+⬇Mode SSL/SNI (TKP Tertentu)⬇ 
+↯
+↬Keluarga Whatsapp & Line (Flex) :
+
+• ftp.line.com
+• web.web.whatsapp.com
+• ww.web.whatsapp.com
+• w1.web.whatsapp.com
+• w2.web.whatsapp.com
+• w3.web.whatsapp.com
+• w4.web.whatsapp.com
+• w5.web.whatsapp.com
+• w8.web.whatsapp.com
+• we1.web.whatsapp.com
+• we2.web.whatsapp.com
+
+Note: Gunakan APN xlunlimited & Cari IP Besar (Cth: 10.100)
+
+Proxy : 
+• 104.21.71.112 (khusus Jabar)
+• 104.26.5.10
+• 104.26.4.10
+• 199.60.103.28 
+• 199.60.103.228 
+
+ 
+↬Keluarga Grab dan Zendesk (Unlimited Turbo):
+• 162.159.128.7 
+• 162.159.138.6 
+
+Host:
+↬Keluarga Line (Flex):
+
+• cdntest40.line-scdn.net
+• store.linefriends.com 
+• blog.clova.line.me 
+• cs-cb.clova.line.me 
+• cs-ocr.clova.line.me 
+• lb.clova.line.me 
+
+🔄Mode Bolak Balik🔄
+↯
+↬Keluarga Grab dan Zendesk (Unlimited Turbo):
+
+IP:
+• 162.159.128.7
+• 162.159.138.6
+
+Host:
+
+• zendesk1.shopee.tw
+• zendesk1.shopee.sg
+• zendesk1.shopee.ph
+• zendesk1.appsflyer.com 
+• zendesk1.grabtaxi.com 
+• zendesk4.grabtaxi.com 
+• support-whatsapp.zendesk.com 
+• account-gopay.midtrans.com
+
+TKP Khusus
+
+• www.wasa.com
+• 104.18.30.185
+• 104.18.31.185
+
+List XL Edukasi
+
+[SSH Ws/Trojan Go/Vmess/Vless Ws]
+[Support Port 80/443]
+=================
+api.midtrans.com
+104.17.3.81
+104.17.2.81
+-----------------
+udemy.com
+104.16.66.85
+104.16.65.85
+-----------------
+www.skillacademy.com
+104.18.25.139
+104.18.24.139
+-----------------
+
+
+List Bug XL Akrab
+
+[SSH Ws/Trojan Go/Vmess/Vless Mod Wss]
+[Support Port 80/443]
+=================
+cacerts.digicert.com
+104.18.38.174
+172.64.149.82
+-----------------
+note.microsoft.com
+104.17.70.206
+104.17.71.206
+-----------------
+[SSH SSL/Trojan GFW]
+[Support Port 443]
+=================
+config.teams.microsoft.com
+mobilemaps.googleapis.com
+-----------------
+
+
+BUG AKRAB JABAR
+
+akrab.kaname.my.id
+akrab.gaaa.my.id
+cacerts.digicert.com
+news.microsoft.com
