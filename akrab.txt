@@ -1,0 +1,136 @@
+#Bug XL Akrab & Combo Plus VIP
+
+⬇️Mode SSL/SNI Trojan Port 443 atau 80 (TKP Tertentu)⬇️
+↯
+• layanan.ruangguru.com
+• teams.live.com
+• store.zoom.us
+• meet.google.com
+• talkgadget.google.com
+• kh.google.com
+• meetings.googleapis.com
+• presence.teams.live.com
+• msgapi.teams.live.com
+• trouter2-azsc-uswe-3-a.trouter.teams.microsoft.com
+
+🔄Mode Bolak Balik🔄
+↯
+IP:
+• 104.18.26.28
+• 104.18.27.28
+• 104.18.38.174
+• 104.21.21.147
+• 104.18.30.9
+• 104.18.31.9
+• 104.26.5.10
+• 104.26.4.10
+• 104.17.2.81
+• 104.18.21.226
+• 141.193.213.20
+• 141.193.213.21
+• 104.18.11.39 
+• 104.18.10.39
+• 172.67.199.34
+• 104.20.74.141
+• 104.20.75.141
+• 104.21.21.104
+• 104.21.10.162
+• 104.21.4.109
+• 104.21.16.163
+• 104.21.6.56
+• 104.21.12.167
+• 104.18.24.243
+• 104.18.25.243
+• 172.67.70.14
+• 104.26.14.59
+• 104.26.15.59
+• 170.114.46.0
+• 104.21.21.107
+• 172.67.199.34
+• 104.17.71.206
+• 104.17.70.206
+• 104.21.1.180
+• 104.21.1.229
+• 104.16.42.102
+• 104.16.43.102
+• 104.18.211.56
+• 104.18.24.139
+• 104.18.211.56
+• 172.67.182.69
+• 104.21.32.17
+• 104.26.4.126
+
+Host:
+↯
+• 007fmxfuxoay.wpeproxy.com
+• paypal.zoom.us
+• source.zoom.us
+• sia2.mercubuana.ac.id
+• alerts.bounces.google.com
+• verify.medallia.com
+• zoomappdocs.zoom.us
+• www.ukmindonesia.id
+• apps.qiscus.com
+• lms.uin-antasari.ac.id
+• www.appsflyer.com
+• www.udemy.com
+• www.ruangguru.com
+• info.microsoft.com
+• ionline.uc.edu
+• ir.deliveryhero.com
+
+🎲 Mode: UDP (SSTP, L2TP, WIREGUARD) 🎲
+↯
+•  mapsplatform.google.com
+•  kh.google.com
+
+Bug XL Akrab Active ✓
+
+XL Akrab Maps : 
+maps.gstatic.com
+maps.google.com
+meet.google.com
+
+XL Akrab Conference :
+teams.microsoft.com
+
+XL Akrab Edukasi :
+info.udemy.com : 104.17.70.206
+www.udemy.com :104.16.66.85
+www.skillacademy.com : 104.18.25.139
+104.20.74.141
+104.20.75.141
+
+SSL Payload : 
+CONNECT wss://www.udemy.com/ HTTP/1.1[crlf]Host: isi host 
+kalian tcrlf]Connection: keep-alive[crlf]Upgrade: 
+websocket[crlf] [crlf] 
+Spoof Server : 
+www.udemy.com 
+Remote Server : 
+104.16.65.85:443
+
+XL Akrab 
+Mode : Vmess
+Work : Jatim Jateng Jabar
+
+IP:
+104.18.211.56
+104.17.70.206
+104.18.11.39 
+104.18.10.39 
+104.21.21.147
+172.67.199.34
+104.20.74.141
+104.20.75.141
+104.26.5.10
+104.26.4.10
+104.26.4.126
+104.18.21.226
+
+Host :
+dev.appsflyer.com
+cdn.onlymega.com
+apps.qiscus.com
+api.fastworldpay.com
+ltcminer.com
